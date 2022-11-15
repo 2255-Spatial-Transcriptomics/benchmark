@@ -1,0 +1,3 @@
+[submodule "scphere"]
+	path = scphere
+	url = git@github.com:2255-Spatial-Transcriptomics/benchmark-scphere.git
