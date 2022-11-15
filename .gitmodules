@@ -4,3 +4,9 @@
 [submodule "benchmark-VASC"]
 	path = benchmark-VASC
 	url = git@github.com:2255-Spatial-Transcriptomics/benchmark-VASC.git
+[submodule "benchmark-scDHA"]
+	path = benchmark-scDHA
+	url = git@github.com:2255-Spatial-Transcriptomics/benchmark-scDHA.git
+[submodule "benchmark-DRA"]
+	path = benchmark-DRA
+	url = git@github.com:2255-Spatial-Transcriptomics/benchmark-DRA.git
