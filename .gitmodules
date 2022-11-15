@@ -1,5 +1,5 @@
-[submodule "scphere"]
-	path = scphere
+[submodule "benchmark-scPhere"]
+	path = benchmark-scPhere
 	url = git@github.com:2255-Spatial-Transcriptomics/benchmark-scphere.git
 [submodule "benchmark-VASC"]
 	path = benchmark-VASC
